@@ -1,4 +1,5 @@
-Spam Email Classification Using NLP and Machine Learning
+Spam Email Classification Using NLP and Machine Learning 
+I have done as the part of aicte internship 
 This project demonstrates the use of Natural Language Processing (NLP) and Machine Learning (ML) to classify emails as either spam or ham (non-spam). The model has been trained on a labeled dataset and implements text preprocessing, feature extraction, and classification algorithms.
 
 Project Features
